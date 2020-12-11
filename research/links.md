@@ -8,3 +8,4 @@ Possible starting points:
 1. [training data](https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data)
 1. [NASA data](https://exoplanetarchive.ipac.caltech.edu/docs/data.html)
 1. [telescope data](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html)
+1. [additional telescope data](https://www.kaggle.com/mrisdal/open-exoplanet-catalogue)
